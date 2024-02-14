@@ -1,3 +1,7 @@
+The overview looks as shown below
+![bscard](https://github.com/halfa1/Business-card/assets/89219393/53c9891d-201f-45b2-9996-11089b2198c8)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
